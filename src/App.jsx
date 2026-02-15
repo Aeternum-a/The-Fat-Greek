@@ -905,7 +905,7 @@ export default function TheFatGreekWebsite() {
               height: '400px',
               cursor: 'pointer'
             }}>
-              <img src="/food.jpg" alt="Signature Dish" style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', top: 0, left: 0, zIndex: 0 }} />
+              <img src="./food.jpg" alt="Signature Dish" style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', top: 0, left: 0, zIndex: 0 }} />
               <div style={{
                 position: 'absolute',
                 top: 0,
